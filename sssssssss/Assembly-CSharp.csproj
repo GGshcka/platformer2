@@ -61,7 +61,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\characterController.cs" />
+    <Compile Include="Assets\Die.cs" />
+    <Compile Include="Assets\EnemyAI_.cs" />
+    <Compile Include="Assets\EnemyAIEditor.cs" />
+    <Compile Include="Assets\GameManager.cs" />
     <Compile Include="Assets\Kill.cs" />
+    <Compile Include="Assets\NewBehaviourScript.cs" />
     <Compile Include="Assets\newcam.cs" />
     <Compile Include="Assets\PlayerHealth.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
